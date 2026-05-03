@@ -24,6 +24,7 @@ In this section, I learned how to:
 
 📸 Example:
 ![Hardware Configuration](1.png)
+![Hardware Configuration](2.png)
 
 ---
 
@@ -36,7 +37,7 @@ I explored the PLC properties and settings, including:
 * General PLC information
 
 📸 Example:
-![PLC Properties](4 propietati plc.png)
+![PLC Properties](4.png)
 
 ---
 
@@ -49,10 +50,10 @@ Example:
 * Sensor connected to input **I10.0**
 
 📸 Example:
-![Digital Inputs](3 intrari digitale.png)
+![Digital Inputs](3.png)
 
 📸 Sensor Example:
-![Sensor I10.0](5 senzor I10.0.png)
+![Sensor I10.0](5.png)
 
 ---
 
@@ -76,9 +77,9 @@ I learned how to:
 * Organize tags efficiently
 
 📸 Examples:
-![Constants](7 Tags - constante.png)
+![Constants](7.png)
 
-![Complete Tags](8 taguri complete.png)
+![Complete Tags](8.png)
 
 ---
 
